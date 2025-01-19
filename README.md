@@ -80,6 +80,14 @@ dependencies:
       url: https://github.com/theyakka/qr.flutter.git
 ```
 ---
+
+### APK Download
+
+Download the latest release of the app to try it out:
+
+👉 [Download QR Code Generator APK](https://code.visualstudio.com/)
+
+---
 ### Support:
 
 For questions, feedback, or support, feel free to reach out at nawafsuneer@gmail.com.

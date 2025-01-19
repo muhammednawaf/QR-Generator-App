@@ -53,7 +53,7 @@ Make sure you have the following installed:
  ```bash
   flutter pub get
    ```
-3.Run the app:
+3.Run the app
 ```bash
 flutter run
 ```
@@ -61,5 +61,13 @@ flutter run
 ### How It Works
 - **Splash Screen**: Upon opening the app, an engaging splash screen is displayed while the app initializes.
 - **Input Text**: Enter text into the text box provided.
--**Generate QR Code**: Tap the "Generate" button.
+- **Generate QR Code**: Tap the "Generate" button.
 - **View QR Code**: The generated QR code will be displayed instantly.
+
+### Dependencies
+The project uses the following dependency:
+
+qr_flutter
+- **Description**: A Flutter package for generating customizable QR codes.
+- **Source**: GitHub
+- **Integration**: Add the following to your pubspec.yaml file:

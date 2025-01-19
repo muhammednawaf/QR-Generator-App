@@ -9,7 +9,6 @@ A Flutter-based application that dynamically generates QR codes from user-provid
 - **Dynamic QR Code Generation**: Instantly convert text into QR codes.
 - **User-Friendly Interface**: Minimalistic and easy to navigate.
 - **Splash Screen**: An attractive splash screen displayed during app startup.
-- **Lightweight Application**: Optimized for small APK size and quick load times.
 
 ---
 

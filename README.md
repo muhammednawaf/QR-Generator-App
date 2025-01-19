@@ -46,9 +46,10 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ```bash
+ ```bash
    git clone https://github.com/your-username/qr_code_generator.git
    cd qr_code_generator
+   ```
 2. Install dependencies:
  ```bash
   flutter pub get
@@ -70,4 +71,11 @@ The project uses the following dependency:
 `qr_flutter`
 - **Description**: A Flutter package for generating customizable QR codes.
 - **Source**: GitHub
-- **Integration**: Add the following to your pubspec.yaml file:
+- **Integration**: Add the following to your `pubspec.yaml` file:
+
+```bash
+dependencies:
+  qr_flutter:
+    git:
+      url: https://github.com/theyakka/qr.flutter.git
+```

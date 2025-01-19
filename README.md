@@ -79,3 +79,7 @@ dependencies:
     git:
       url: https://github.com/theyakka/qr.flutter.git
 ```
+
+### Author
+Muhammed Nawaf M V
+For questions, feedback, or support, feel free to reach out at nawafsuneer@gmail.com.

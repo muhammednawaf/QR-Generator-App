@@ -67,7 +67,7 @@ flutter run
 ### Dependencies
 The project uses the following dependency:
 
-qr_flutter
+`qr_flutter`
 - **Description**: A Flutter package for generating customizable QR codes.
 - **Source**: GitHub
 - **Integration**: Add the following to your pubspec.yaml file:

@@ -85,7 +85,7 @@ dependencies:
 
 Download the latest release of the app to try it out:
 
-👉 [Download QR Code Generator APK](https://code.visualstudio.com/)
+👉 [Download QR Code Generator APK](https://drive.google.com/file/d/16KpRjNbFq3AMoq8lGibirUeXQARRYLMm/view?usp=sharing)
 
 ---
 ### Support:

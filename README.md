@@ -42,7 +42,7 @@ A Flutter-based application that dynamically generates QR codes from user-provid
 Make sure you have the following installed:
 - Flutter SDK (version 3.5.0 or higher)
 - A code editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
-
+---
 ### Installation
 
 1. Clone the repository:
@@ -58,14 +58,15 @@ Make sure you have the following installed:
 ```bash
 flutter run
 ```
-
-### How It Works
+---
+### How It Works:
 - **Splash Screen**: Upon opening the app, an engaging splash screen is displayed while the app initializes.
 - **Input Text**: Enter text into the text box provided.
 - **Generate QR Code**: Tap the "Generate" button.
 - **View QR Code**: The generated QR code will be displayed instantly.
+---
 
-### Dependencies
+### Dependencies:
 The project uses the following dependency:
 
 `qr_flutter`
@@ -79,7 +80,7 @@ dependencies:
     git:
       url: https://github.com/theyakka/qr.flutter.git
 ```
+---
+### Support:
 
-### Author
-Muhammed Nawaf M V
 For questions, feedback, or support, feel free to reach out at nawafsuneer@gmail.com.

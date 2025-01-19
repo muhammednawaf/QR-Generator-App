@@ -49,3 +49,17 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/qr_code_generator.git
    cd qr_code_generator
+2. Install dependencies:
+ ```bash
+  flutter pub get
+```
+3.Run the app:
+```bash
+flutter run
+```
+
+How It Works
+1. Splash Screen: Upon opening the app, an engaging splash screen is displayed while the app initializes.
+2. Input Text: Enter text into the text box provided.
+3. Generate QR Code: Tap the "Generate" button.
+4. View QR Code: The generated QR code will be displayed instantly.

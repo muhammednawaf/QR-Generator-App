@@ -22,8 +22,9 @@ A Flutter-based application that dynamically generates QR codes from user-provid
 
 ## Screenshots
 
+![Screenshot_20250119_124916](https://github.com/user-attachments/assets/4403211f-904a-4e74-af95-8720ac72be2b)
 
-![Splash Screen](Screenshot_20250119_124916](https://github.com/user-attachments/assets/45094204-f4f7-4a22-bc02-8b5d9e961eaf)
+
 
 ### Home Screen
 ![Home Screen](screenshots/home_screen.png)
